@@ -1,0 +1,10 @@
+.show-shadow::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 20px; /* Adjust the width of the shadow as needed */
+    background: linear-gradient(to right, transparent, rgba(0,0,0,0.1));
+    pointer-events: none;
+  }

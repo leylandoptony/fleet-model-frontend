@@ -1,0 +1,8 @@
+
+@font-face {
+    font-family: 'Franklin Gothic';
+    src: local('Franklin Gothic'),
+         url('./fonts/FranklinGothic.woff') format('woff');
+}
+
+/* Add any additional font weights or styles */
